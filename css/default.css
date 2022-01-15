@@ -876,8 +876,7 @@ article.media .categories,
 .is-lowercase {
   text-transform: lowercase !important;
 }
-.is-uppercase,
-article.media .categories {
+.is-uppercase {
   text-transform: uppercase !important;
 }
 .is-italic {
@@ -10833,7 +10832,7 @@ article.article .center-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
