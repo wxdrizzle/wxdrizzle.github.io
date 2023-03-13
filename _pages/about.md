@@ -16,9 +16,9 @@ Before becoming a Ph.D. student at UW, I worked as a research assistant in stati
 
 ## Education
 
-(Expected) Ph.D. in Electrical & Computer Engineering, University of Washington, 2021-2026
-RA in Statistics, Fudan University, 2020-2021
-B.Eng. in Electrical Engineering, Fudan University, 2016-2020
+- (2021-present) Ph.D. in Electrical & Computer Engineering, University of Washington
+- (2020-2021) Visiting Student in Statistics, School of Data Science, Fudan University
+- (2016-2020) B.Eng., Department of  Electronic Engineering, Fudan University
 
 ## Publications
-- Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang. BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement. *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023.
+- Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang. BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement. *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023. [URL](https://arxiv.org/abs/2206.02377)
