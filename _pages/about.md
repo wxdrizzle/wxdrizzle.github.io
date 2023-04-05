@@ -21,7 +21,7 @@ Before becoming a Ph.D. student at UW, I worked as a research assistant in stati
 - (2016-2020) B.Eng., Department of  Electronic Engineering, Fudan University
 
 ## Publications
-[BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement](https://arxiv.org/abs/2206.02377)
-Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang
-*The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023
+[BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement](https://arxiv.org/abs/2206.02377)&nbsp;
+Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang&nbsp;
+*The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023&nbsp;
 <span style="color: #FF0000">Oral Presentation</span>
