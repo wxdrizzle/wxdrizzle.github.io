@@ -23,5 +23,5 @@ Before becoming a Ph.D. student at UW, I worked as a research assistant in stati
 ## Publications
 [BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement](https://arxiv.org/abs/2206.02377)<br />
 Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang<br />
-<span style="color: #FF0000">Oral Presentation</span>, *the 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
+<span style="color: #FF0000">Honorable Mention for the Francois Erbsmann Prize, Oral Presentation</span>, *the 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
 
