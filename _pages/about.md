@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Email: xwang99[at]uw[dot]edu
+
 I am a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington, co-advised by Prof. Linda Shapiro and Prof. Chun Yuan.
 
 My research interests include medical image analysis and machine learning. I am dedicated to developing novel statistical models for multimodal image fusion, thereby enhancing disease prevention, diagnoisis and prognosis. My recent work focuses on Bayesian representation learning for multimodal image registration.
