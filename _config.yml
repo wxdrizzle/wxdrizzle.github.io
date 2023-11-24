@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin's Research"
+title                    : "Xin Wang, UW ECE PhD Student"
 title_separator          : "-"
 name                     : &name "Xin Wang"
-description              : &description "PhD Student at University of Washington"
+description              : &description "PhD Student at the University of Washington"
 url                      : https://wxdrizzle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wxdrizzle.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "xwang99[at]uw[dot]edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

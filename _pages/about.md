@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington, co-advised by Prof. Linda Shapiro and Prof. Chun Yuan.
+I am a third-year Ph.D. student in the Department of Electrical & Computer Engineering at the University of Washington, co-advised by Prof. Linda Shapiro and Prof. Chun Yuan.
 
 My research interests include medical image analysis and machine learning. I am dedicated to developing novel statistical models for multimodal image fusion, thereby enhancing disease prevention, diagnoisis and prognosis. My recent work focuses on Bayesian representation learning for multimodal image registration.
 
-Before becoming a Ph.D. student at UW, I worked as a research assistant in statistics in the School of Data Science at Fudan University, supervised by Prof. Xiahai Zhuang. I obtained my B.Eng. degree in Electronic Engineering at Fudan University in 2020, advised by Prof. Jinhua Yu.
+Before becoming a Ph.D. student at the UW, I worked as a research assistant in statistics in the School of Data Science at Fudan University, supervised by Prof. Xiahai Zhuang. I obtained my B.Eng. degree in Electronic Engineering at Fudan University in 2020, advised by Prof. Jinhua Yu.
 
 ## Education
 
@@ -24,7 +24,7 @@ Before becoming a Ph.D. student at UW, I worked as a research assistant in stati
 BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement<br />
 [Proceedings](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25), [Arxiv](https://arxiv.org/abs/2206.02377)<br />
 Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang<br />
-<span style="color: #FF0000">Oral Presentation, Honorable Mention for the Francois Erbsmann Prize</span> (best paper award for young researchers)<br />
+<span style="color: #FF0000">Oral, Runner-up for Erbsmann Prize</span> (best paper award)<br />
 *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
 
 ## Reviewer
