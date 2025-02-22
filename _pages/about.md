@@ -27,8 +27,18 @@ Before becoming a Ph.D. student at the UW, I worked as a research assistant in s
 BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement<br />
 [Proceedings](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25), [Arxiv](https://arxiv.org/abs/2206.02377)<br />
 Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang<br />
-<span style="color: #FF0000">Oral, Runner-up for Erbsmann Prize</span> (best paper award)<br />
+<span style="color: #FF0000">Oral, Best Paper Runner-up</span><br />
 *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
+
+RemInD: Remembering Anatomical Variations for Interpretable Domain Adaptive Medical Image Segmentation<br />
+[Arxiv](https://arxiv.org/abs/2502.10887)<br />
+Xin Wang et al.<br />
+*The 29th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2025<br />
+
+Automated MRI-based segmentation of intracranial arterial calcification by restricting feature complexity<br />
+[Article](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30283)<br />
+Xin Wang et al.<br />
+*Magnetic Resonance in Medicine*, 2024<br />
 
 ## Reviewer
 - IEEE Transactions on Medical Imaging
