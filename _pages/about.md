@@ -28,7 +28,7 @@ BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disen
 Xin Wang\*, Xinzhe Luo\*, Xiahai Zhuang<br />
 (<span style="color: #FF0000">Oral, Best Paper Runner-up</span>) *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
 
-RemInD: Remembering Anatomical Variations for Interpretable Domain Adaptive Medical Image Segmentation [\[Arxiv\]](https://arxiv.org/abs/2502.10887)<br />
+(<span style="color: #FF0000">Oral</span>) RemInD: Remembering Anatomical Variations for Interpretable Domain Adaptive Medical Image Segmentation [\[Arxiv\]](https://arxiv.org/abs/2502.10887)<br />
 Xin Wang et al.<br />
 *The 29th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2025<br />
 
