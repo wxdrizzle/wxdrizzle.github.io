@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Wang, UW ECE PhD Student"
+title                    : "Xin Wang, PhD"
 title_separator          : "-"
 name                     : &name "Xin Wang"
-description              : &description "PhD Student at the University of Washington"
+description              : &description ""
 url                      : https://wxdrizzle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wxdrizzle.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Wang"
   avatar           : "profile.png"
-  bio              : "PhD Student in Electrical & Computer Engineering, University of Washington"
+  bio              : ""
   location         : "Seattle, United States"
   employer         :
   pubmed           : 
