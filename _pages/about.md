@@ -25,23 +25,23 @@ My research interests include medical image analysis and machine learning. I foc
 ## Publications
 
 Unified and Semantically Grounded Domain Adaptation for Medical Image Segmentation [\[Article\]](https://ieeexplore.ieee.org/document/11430700), [\[arXiv\]](https://arxiv.org/abs/2508.08660)<br />
-<b><u>Xin Wang</u></b> et al.<br />
+<u>Xin Wang</u> et al.<br />
 *IEEE Transactions on Medical Imaging* (**TMI**), 2026<br />
 
 Bayesian Unsupervised Disentanglement of Anatomy and Geometry for Deep Groupwise Image Registration [\[Article\]](https://ieeexplore.ieee.org/abstract/document/11160679), [\[arXiv\]](https://arxiv.org/abs/2401.02141)<br />
-Xinzhe Luo\*, <b><u>Xin Wang</u></b>\* et al.<br />
+Xinzhe Luo\*, <u>Xin Wang</u>\* et al.<br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026<br />
 
 RemInD: Remembering Anatomical Variations for Interpretable Domain Adaptive Medical Image Segmentation [\[Proceedings\]](https://link.springer.com/chapter/10.1007/978-3-031-96628-6_22), [\[arXiv\]](https://arxiv.org/abs/2502.10887)<br />
-<b><u>Xin Wang</u></b> et al.<br />
+<u>Xin Wang</u> et al.<br />
 *The 29th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2025<br />
 
 Automated MRI-based segmentation of intracranial arterial calcification by restricting feature complexity [\[Article\]](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30283)<br />
-<b><u>Xin Wang</u></b> et al.<br />
+<u>Xin Wang</u> et al.<br />
 *Magnetic Resonance in Medicine*, 2024<br />
 
 BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement [\[Proceedings\]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25), [\[arXiv\]](https://arxiv.org/abs/2206.02377)<br />
-<b><u>Xin Wang</u></b>\*, Xinzhe Luo\* et al. <br />
+<u>Xin Wang</u>\*, Xinzhe Luo\* et al. <br />
 (<span style="color: #FF0000">Oral, Best Paper Runner-up</span>) *The 28th biennial international conference on Information Processing in Medical Imaging* (**IPMI**), 2023<br />
 
 ## Reviewer
